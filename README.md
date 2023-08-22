@@ -12,3 +12,5 @@ _Project Presentation_ [(Link)](https://drive.google.com/file/d/1p4rVVZwXkJcjR-9
 
 _Final Essay_ [(Link)](https://drive.google.com/file/d/1mF1f8hhBQtiDvKQCNmA7tUSeCSkiaNEj/view?usp=sharing)
 - My Role: Author _Results and Discussion_ Section (pg 8-17)
+
+Note: For clarity and concision, this repository contains 4 of the various CNN models / features that our group trained (and explored).
